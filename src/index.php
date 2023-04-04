@@ -23,9 +23,9 @@ for ($i=$n; $i < 0; $i--) {
 
 echo "4 4 4 4 4 4 4";echo "<br>";
 echo "4 3 3 3 3 3 4";echo "<br>";
-echo "4 2 2 2 2 3 4";echo "<br>";
-echo "4 2 2 1 2 3 4";echo "<br>";
-echo "4 2 2 2 2 3 4";echo "<br>";
+echo "4 3 2 2 2 3 4";echo "<br>";
+echo "4 3 2 1 2 3 4";echo "<br>";
+echo "4 3 2 2 2 3 4";echo "<br>";
 echo "4 3 3 3 3 3 4";echo "<br>";
 echo "4 4 4 4 4 4 4";echo "<br>";
 // print_r($lst);
